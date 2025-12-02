@@ -33,7 +33,7 @@
     "build:watch": "rollup -c -w"
   },
   "dependencies": {
-    "smooth-dnd": "^0.12.1"
+    "smooth-dnd": "idanstrul/smooth-dnd#bug-fix"
   },
   "peerDependencies": {
     "vue": "^3.0.11"
